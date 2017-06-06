@@ -1,6 +1,6 @@
 {
   "name": "throttle-debounce-fn",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "jQuery-based plugin that allows you to throttle and debounce your functions",
   "main": "Gruntfile.js",
   "repository": {

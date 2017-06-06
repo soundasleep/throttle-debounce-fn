@@ -1,5 +1,5 @@
 /*
- *  throttle-debounce-fn - v0.0.1
+ *  throttle-debounce-fn - v1.0.1
  *  jQuery-based plugin that allows you to throttle and debounce your functions
  *  https://github.com/migueldemoura/throttle-debounce-fn
  *
