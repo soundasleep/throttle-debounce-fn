@@ -1,6 +1,8 @@
 # Throttle Debounce Fn
 
-Throttle Debounce Fn is a jQuery-based plugin that allows you to throttle and debounce your functions. It is based on [jQuery-Throttle-Debounce], with only a few changes.
+Throttle Debounce Fn is a jQuery-based plugin that allows you to throttle and debounce your functions. It is based on [jQuery-Throttle-Debounce], with only a few changes. Full credits to the original author.
+
+This repository/package was created for integration with https://github.com/nielsenramon/chalk.
 
 ## Compatibility
 
@@ -45,7 +47,7 @@ MIT. See `LICENSE.md` for further information.
 
 ## Authors
 
-Miguel de Moura <me@migueldemoura.com>
+Miguel de Moura <me@migueldemoura.com>  
 ["Cowboy" Ben Alman]
 
 
